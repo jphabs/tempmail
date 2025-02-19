@@ -122,6 +122,7 @@ To set up TempMail V2 locally, follow these steps:
 
    - Upon launching the application, you'll receive an update notification prompting you to rate the new UI. Provide your feedback through the embedded poll.
 
+
 ## Project Structure
 temp-mail/
 ├── css/
