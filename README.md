@@ -32,19 +32,6 @@ TempMail V2 is a secure and user-friendly temporary email service that allows us
 - [Acknowledgments](#acknowledgments)
 
 
-
-
-## Star History
-
-<a href="https://star-history.com/#mehmetkahya0/temp-mail&Date">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=mehmetkahya0/temp-mail&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=mehmetkahya0/temp-mail&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=mehmetkahya0/temp-mail&type=Date" />
- </picture>
-</a>
-
-
 ## Features
 
 - **Generate Disposable Emails:** Create temporary email addresses instantly.
