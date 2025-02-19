@@ -57,7 +57,7 @@ TempMail V2 is a secure and user-friendly temporary email service that allows us
 
 ## Demo
 
-Experience TempMail V2 in action by visiting the [Live Demo](https://mehmetkahya0.github.io/temp-mail/).
+Experience TempMail V2 in action by visiting the [Live Demo](https://jphabs.github.io/tempmail/).
 
 ## Technologies Used
 
@@ -77,7 +77,7 @@ To set up TempMail V2 locally, follow these steps:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/mehmetkahya0/temp-mail.git
+   git clone https://github.com/jphabs/tempmail.git
    ```
 
 2. **Navigate to the Project Directory:**
@@ -206,7 +206,7 @@ Contributions are welcome! Please follow these steps to contribute:
 2. **Clone the Forked Repository:**
 
    ```bash
-   git clone https://github.com/mehmetkahya0/temp-mail.git
+   git clone https://github.com/jphabs/tempmail.git
    ```
 
 3. **Create a New Branch:**
@@ -243,8 +243,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Author
 
-**Mehmet Kahya**  
-[GitHub](https://github.com/mehmetkahya0) | [LinkedIn](https://linkedin.com/in/mehmetkahya0) | [Email](mailto:mehmetkahyakas5@gmail.com)
+**Jphabs Khalifa**  
+[GitHub](https://github.com/jphabs) | [Email](mailto:jphabswebsites@gmail.com@gmail.com)
 
 ## Acknowledgments
 
