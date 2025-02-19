@@ -124,22 +124,22 @@ To set up TempMail V2 locally, follow these steps:
 
 
 ## Project Structure
-temp-mail/
-├── css/
-│ └── style.css
-├── js/
-│ ├── api.js
-│ ├── config.js
-│ └── theme.js
-├── images/
-│ ├── temp-mail-og-image.png
-│ ├── temp-mail-twitter-image.png
-│ └── temp-mail-icon.png
-├── privacy/
-│ └── privacy.html
-├── index.html
-└── README.md
 
+temp-mail/  
+├── css/  
+│   └── style.css  
+├── js/  
+│   ├── api.js  
+│   ├── config.js  
+│   └── theme.js  
+├── images/  
+│   ├── temp-mail-og-image.png  
+│   ├── temp-mail-twitter-image.png  
+│   └── temp-mail-icon.png  
+├── privacy/  
+│   └── privacy.html  
+├── index.html  
+└── README.md
 
 
 ### Description
